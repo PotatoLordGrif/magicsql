@@ -267,7 +267,7 @@ if(isset($_POST["regenerate"])) {
                 <?php endwhile; }?>
         </select>
             <br><br>
-        Input: <textarea name="input" rows="5" cols="40"><?php echo $_POST["input"];?></textarea><br>
+        Prompt: <textarea name="input" rows="5" cols="40"><?php echo $_POST["input"];?></textarea><br>
         <input type="submit" name="submit" value="Submit">
     </div>
     <div class="right-side">
