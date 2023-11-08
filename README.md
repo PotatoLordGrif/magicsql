@@ -16,11 +16,17 @@ Clone this repository to your webserver
 ```bash
 git clone https://github.com/potatolordgrif/magicsql.git
 ```
+
 Install Orhanerday's Open-AI Connector
 ```bash
 composer require orhanerday/open-ai
 ```
 For more information go to [Orhanerday's Repository](https://github.com/orhanerday/open-ai)
+
+Add your Open AI API Token to the following line:
+```php
+$GLOBALS["open_ai"] = new OpenAi('Your_Token_Here');
+```
 
 ## Usage
 To use this program, you first must connect to your MySQL server, and enter your login credentials. This will allow you to select the Database that you wish to use for these SQL Queries.
