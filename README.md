@@ -34,6 +34,7 @@ To use this program, you first must connect to your MySQL server, and enter your
 ![MagicSQL_Login](https://github.com/PotatoLordGrif/magicsql/assets/32713353/81e55e6f-609b-4382-83d2-31c037bd5fac)
 
 On the Left side, you can then enter your Prompt where stated. Once you've entered your prompt for the Database, you hit Run.
+
 ![MagicSQL_Prompt](https://github.com/PotatoLordGrif/magicsql/assets/32713353/5baa7193-3ec5-4d1f-98fa-fa907808e8bf)
 
 After a few seconds, you will see SQL query code show on the right side of the menu. Verify that it is correct code, and make any adjustments necessary.
