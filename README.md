@@ -30,6 +30,7 @@ $GLOBALS["open_ai"] = new OpenAi('Your_Token_Here');
 
 ## Usage
 To use this program, you first must connect to your MySQL server, and enter your login credentials. This will allow you to select the Database that you wish to use for these SQL Queries.
+
 ![MagicSQL_Login](https://github.com/PotatoLordGrif/magicsql/assets/32713353/81e55e6f-609b-4382-83d2-31c037bd5fac)
 
 On the Left side, you can then enter your Prompt where stated. Once you've entered your prompt for the Database, you hit Run.
