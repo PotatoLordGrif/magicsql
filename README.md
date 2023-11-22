@@ -30,8 +30,16 @@ $GLOBALS["open_ai"] = new OpenAi('Your_Token_Here');
 
 ## Usage
 To use this program, you first must connect to your MySQL server, and enter your login credentials. This will allow you to select the Database that you wish to use for these SQL Queries.
+![MagicSQL_Login](https://github.com/PotatoLordGrif/magicsql/assets/32713353/81e55e6f-609b-4382-83d2-31c037bd5fac)
 
 On the Left side, you can then enter your Prompt where stated. Once you've entered your prompt for the Database, you hit Run.
+![MagicSQL_Prompt](https://github.com/PotatoLordGrif/magicsql/assets/32713353/5baa7193-3ec5-4d1f-98fa-fa907808e8bf)
 
-After a few seconds, you will see SQL query code show on the right side of the menu. Verify that it is correct code, and make any adjustments necessary, and then you are able to hit Run. This will display the SQL data in a table at the bottom of the page.
+After a few seconds, you will see SQL query code show on the right side of the menu. Verify that it is correct code, and make any adjustments necessary.
+![MagicSQL_Completed](https://github.com/PotatoLordGrif/magicsql/assets/32713353/779f15e6-d9d0-4e70-9c2f-ddce433d1a14)
+
+After making any small adjustments, you can hit Run at the bottom to generate a Table from the SQL.
+![MagicSQL_Table](https://github.com/PotatoLordGrif/magicsql/assets/32713353/447b14de-05a3-43fb-975a-052f25e2511b)
+
+
 
